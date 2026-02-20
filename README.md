@@ -10,4 +10,5 @@ _CODE_
 
 [Pitch passing network
 ](./pitch_passing_network/)
-KPI statistics
+
+[KPI statistics](./kpis/)
