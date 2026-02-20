@@ -1,8 +1,10 @@
 # Harder, shorter, sharper, forward: A comparison of women's and men's elite football gameplay (2020-2025)
 
-Data, code, and materials for the following paper:
+Welcome to the folder containining data, code, and materials for the following paper:
 
 Carstens, R., Deshpande, R., Esteve, P., Fidelibus, N., Neven, S. L., Ottow, R., ... & Torricelli, M. (2025). "[Harder, shorter, sharper, forward: A comparison of women's and men's elite football gameplay (2020-2025)](https://arxiv.org/abs/2506.22119)". arXiv preprint arXiv:2506.22119.
+
+_Elite football is changing — and the data proves it. Analysing 13,018 matches across ten men's and women's leagues in England, Spain, Germany, Italy, and the USA (2020–2025), we show that the modern game is faster, more precise, and more compact than ever. Teams pass more, press harder, and shoot closer to goal. Women's football is evolving fastest. And beneath it all, a universal truth: the best teams don't spread the ball wide — they move it short, sharp, and forward._
 
 ---
 
