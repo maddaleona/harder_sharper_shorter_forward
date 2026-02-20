@@ -4,8 +4,6 @@ Data, code, and materials for the following paper:
 
 Carstens, R., Deshpande, R., Esteve, P., Fidelibus, N., Neven, S. L., Ottow, R., ... & Torricelli, M. (2025). "[Harder, shorter, sharper, forward: A comparison of women's and men's elite football gameplay (2020-2025)](https://arxiv.org/abs/2506.22119)". arXiv preprint arXiv:2506.22119.
 
-
-
 ---
 
 ## Data
@@ -13,7 +11,11 @@ Carstens, R., Deshpande, R., Esteve, P., Fidelibus, N., Neven, S. L., Ottow, R.,
 Although the data used in this study are not publicly available (provided under license from [Hudl StatsBomb](https://statsbomb.com/)), an equivalent surrogate dataset (same provider and same format) can be found in the [StatsBomb open-data repository](https://github.com/statsbomb/open-data).
 
 ---
+
+## At a glance
+
 ![Pitch-passing network construction](./figures/figure_pitch_arsenal_liverpool.png)
+Arsenal vs Liverpool, seen through the lens of network science: each zone of the pitch is a node, each pass a connection — revealing how teams really move the ball.
 
 ## Code
 
