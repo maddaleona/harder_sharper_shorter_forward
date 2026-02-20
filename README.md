@@ -18,7 +18,6 @@ Although the data used in this study are not publicly available (provided under 
 | [`network_metrics.py`](./pitch_passing_network/network_metrics.py) | Computes network-level metrics: outreach, maximum eigenvalue, average shortest path length |
 | [`kpis.py`](./kpis/kpis.py) | Computes match-level KPIs: pass accuracy, passes per possession, passes under pressure, vertical play, and more |
 
----
 
 ## Acknowledgements
 
@@ -26,3 +25,15 @@ This work is the output of the [Complexity72h](https://www.complexity72h.com) wo
 
 ---
 
+## Citation
+
+If you use this code or findings from this paper in your work, please cite:
+
+```bibtex
+@article{carstens2025harder,
+  title     = {Harder, shorter, sharper, forward: A comparison of women's and men's elite football gameplay (2020-2025)},
+  author    = {Carstens, Rebecca and Deshpande, Raj and Esteve, Pau and Fidelibus, Nicol\`o and Linde Neven, Sara and Ottow, Ramona and Lokamruth, K. R. and Rodr\'iguez-S\'anchez, Paula and Santagata, Luca and Buld\'u, Javier M. and Klein, Brennan and Torricelli, Maddalena},
+  journal   = {arXiv preprint arXiv:2506.22119},
+  year      = {2025}
+}
+```
