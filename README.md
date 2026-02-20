@@ -13,7 +13,7 @@ Carstens, R., Deshpande, R., Esteve, P., Fidelibus, N., Neven, S. L., Ottow, R.,
 Although the data used in this study are not publicly available (provided under license from [Hudl StatsBomb](https://statsbomb.com/)), an equivalent surrogate dataset (same provider and same format) can be found in the [StatsBomb open-data repository](https://github.com/statsbomb/open-data).
 
 ---
-![Pitch-passing network construction](./figures/figure_pitch_arsenal_liverpool.pdf)
+![Pitch-passing network construction](./figures/figure_pitch_arsenal_liverpool.png)
 
 ## Code
 
