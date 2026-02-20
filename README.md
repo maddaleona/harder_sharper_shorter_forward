@@ -8,6 +8,6 @@ Although the data used in this study are not publicly available, an equivalent s
 
 _CODE_
 
-Pitch passing network
-
+[Pitch passing network
+](./pitch_passing_network/)
 KPI statistics
