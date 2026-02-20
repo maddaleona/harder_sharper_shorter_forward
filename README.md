@@ -1,6 +1,6 @@
 # Harder, shorter, sharper, forward: A comparison of women's and men's elite football gameplay (2020-2025)
 
-Data, code, materials for "[Harder, shorter, sharper, forward: A comparison of women's and men's elite football gameplay (2020-2025)]([url](https://arxiv.org/abs/2506.22119))"
+Data, code, materials for "[Harder, shorter, sharper, forward: A comparison of women's and men's elite football gameplay (2020-2025)](https://arxiv.org/abs/2506.22119)"
 
 _DATA_
 
