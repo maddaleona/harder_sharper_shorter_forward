@@ -17,7 +17,7 @@ Although the data used in this study are not publicly available (provided under 
 ## At a glance
 
 ![Pitch-passing network construction](./figures/figure_pitch_arsenal_liverpool.png)
-Arsenal vs Liverpool, seen through the lens of network science: each zone of the pitch is a node, each pass a connection — revealing how teams really move the ball. You can recreate this figure by using [`this code`](./figures/figure1_code.py).
+Arsenal vs Liverpool, seen through the lens of network science: each zone of the pitch is a node, each pass a connection — revealing how teams really move the ball. You can recreate this figure using [`this code`](./figures/figure1_code.py).
 
 ## Code
 
