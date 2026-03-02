@@ -26,6 +26,7 @@ Arsenal vs Liverpool, seen through the lens of network science: each zone of the
 | [`pitch_network_construction.py`](./pitch_passing_network/pitch_network_construction.py) | Builds directed weighted pitch-passing networks from match event data using a 10×5 spatial grid |
 | [`network_metrics.py`](./pitch_passing_network/network_metrics.py) | Computes network-level metrics: outreach, maximum eigenvalue, average shortest path length |
 | [`kpis.py`](./kpis/kpis.py) | Computes match-level KPIs: pass accuracy, passes per possession, passes under pressure, vertical play, and more |
+| [`figure1_code.py`](./figures/figure1_code.py) | Generates a match visualization: event maps, pass networks with body-part curvature, and pitch passing networks nodes |
 
 
 ## Acknowledgements
